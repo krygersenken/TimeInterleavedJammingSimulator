@@ -47,7 +47,7 @@ The simulation consist of platform, jammer, and threat parameters and characteri
 # Requirements
 *note: these were the software and hardware that I used to develop and run the TIJ simulator*
 ## Software
-- Python 3.8.3 64-bit
+- Python 3.12 64-bit (3.10 - 3.12 supported by requirements.txt)
 ### Pyton Modules
 - math
 - json
